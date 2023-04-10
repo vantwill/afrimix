@@ -19,7 +19,7 @@ function Footer() {
           link: '/contact-us',
         },
         {
-          name: 'Musics',
+          name: 'Policey',
           link: '/musics',
         },
       ],
@@ -28,19 +28,19 @@ function Footer() {
       title: 'Top Categories',
       links: [
         {
-          name: 'Action',
+          name: 'Music',
           link: '#',
         },
         {
-          name: 'Romantic',
+          name: 'Documenteries',
           link: '#',
         },
         {
-          name: 'Drama',
+          name: 'Interviwes',
           link: '#',
         },
         {
-          name: 'Historical',
+          name: 'Meme',
           link: '#',
         },
       ],
