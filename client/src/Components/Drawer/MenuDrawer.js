@@ -27,7 +27,7 @@ function MenuDrawer({ drawerOpen, toggleDrawer }) {
       icon: HiOutlineUserGroup,
     },
     {
-      name: "Contact Us",
+      name: "Documentaries",
       link: "/contact-us",
       icon: BiPhoneCall,
     },
